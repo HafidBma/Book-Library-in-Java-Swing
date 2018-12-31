@@ -11,7 +11,7 @@ it offers a very simple interface to view a library of EBooks.
   <img src="ProjetIHM/Books-R-Us/Splash.png" alt="SplashScreen" width="350"/>
   <img src="ProjetIHM/Books-R-Us/Connexion.jpg" alt="Authentification" width="467"/>
 </div>
-<img src="ProjetIHM/Books-R-Us/Code7.png" alt="Interface" width="350"/>
+<img src="ProjetIHM/Books-R-Us/Code7.png" alt="Interface" width="815"/>
 
 ## Contributions:
 
